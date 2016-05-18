@@ -30,17 +30,8 @@ comments: true
 <h2 style="text-align: center;">
 <span style="background-color: white; font-family: inherit; font-size: x-large;">The Quest</span></h2>
 <div style="text-align: center;">
-<span style="font-family: inherit;"><span style="background-color: white; font-family: inherit; white-space: pre-wrap;">The mystery behind the Labyrinth is unknown, although that was not the only peculiar event that happened the night it appeared. The hero of our story, Ham, was out hunting for food like he does every night, when he came across a rather odd-looking boar. Having not eaten for 2 days, Ham was quick to the strike. Even more odd was that he could have sworn he heard the creature speak before the killing blow made contact. Either way, he had his prize and so he carried the boar home to prepare for a feast. The night after devouring the boar-made-ham (Ham's favorite!), Ham fell into a deep slumber which was filled with dreams of a great victory to be found at the bottom of the Labyrinth.</span></span></div>
-<span style="background-color: white;"><span style="font-family: inherit;">
-<span style="background-color: black;"></span></span>
-</span><br />
-<div style="text-align: center;">
-<span style="font-family: inherit;"><span style="background-color: white;"><span style="color: white; font-family: inherit;"><span id="docs-internal-guid-7b386818-79d7-ca13-aafb-073a0e25f6d7"><span style="vertical-align: baseline; white-space: pre-wrap;"><span style="color: white;">When Ham awoke, he noticed to his great surprise, that the very same Hambone that he ate clean the night before, was found on his kitchen's table looking full of tasty meat. Not one to question a good thing, Ham made himself a boar breakfast and went back to sleep. Again, our hero dreamed of the treasures and fame one may find at the bottom of the Labyrinth. </span></span></span></span><span style="color: white; font-family: inherit;"><span id="docs-internal-guid-7b386818-79d7-ca13-aafb-073a0e25f6d7"><span style="vertical-align: baseline; white-space: pre-wrap;"><span style="color: white;">Having awoke a few hours later, Ham was astonished to find the seemingly magic Hambone had once again replenished itself! Taking this as a sign, our hero decided then and there that with the help of this magic hambone, he would be the first adventurer to survive the trip into the dark and dangerous labyrinth! Ham quickly grabbed the hambone and the rest of his gear, and started his way into town...</span></span></span></span></span></span></div>
-<span style="font-family: inherit;"><span style="background-color: white;">
-</span></span></div>
-<div style="clear: both; text-align: center;">
-<div style="text-align: center;">
-<span style="background-color: white; font-family: inherit;"><br /></span></div>
+<span style="font-family: inherit;"><span style="background-color: white; font-family: inherit; white-space: pre-wrap;">The mystery behind the Labyrinth is unknown, although that was not the only peculiar event that happened the night it appeared. The hero of our story, Ham, was out hunting for food like he does every night, when he came across a rather odd-looking boar. Having not eaten for 2 days, Ham was quick to the strike. Even more odd was that he could have sworn he heard the creature speak before the killing blow made contact. Either way, he had his prize and so he carried the boar home to prepare for a feast. The night after devouring the boar-made-ham (</span></span><span style="background-color: white; font-family: inherit; white-space: pre-wrap;">Ham's favorite!), Ham fell into a deep slumber which was filled with dreams of a great victory to be found at the bottom of the Labyrinth. </span><span style="font-family: inherit;"><span id="docs-internal-guid-7b386818-79d7-ca13-aafb-073a0e25f6d7"><span style="vertical-align: baseline; white-space: pre-wrap;"><span style="color: black;">When Ham awoke, he noticed to his great surprise, that the very same Hambone that he ate clean the night before, was found on his kitchen's table looking full of tasty meat. Not one to question a good thing, Ham made himself a boar breakfast and went back to sleep. Again, our hero dreamed of the treasures and fame one may find at the bottom of the Labyrinth. </span></span></span></span><span style="font-family: inherit;"><span id="docs-internal-guid-7b386818-79d7-ca13-aafb-073a0e25f6d7"><span style="vertical-align: baseline; white-space: pre-wrap;"><span style="color: white;">Having awoke a few hours later, Ham was astonished to find the seemingly magic Hambone had once again replenished itself! Taking this as a sign, our hero decided then and there that with the help of this magic hambone, he would be the first adventurer to survive the trip into the dark and dangerous labyrinth! Ham quickly grabbed the hambone and the rest of his gear, and started his way into town...</span></span></span></span><br />
+<br /></div>
 </div>
 <h2 style="clear: both; text-align: center;">
 <span style="background-color: white; font-family: inherit; font-size: x-large;">The Gameplay</span></h2>
@@ -84,10 +75,9 @@ Sword - &nbsp;Bow - Wand - Ham!</span></h3>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://1.bp.blogspot.com/-bulxt_RY-fQ/VpLWBteZEhI/AAAAAAAAHcs/jt34zSmdlkI/s1600/HowToPlay1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="background-color: white; color: black; font-family: inherit;"><img border="0" src="https://1.bp.blogspot.com/-bulxt_RY-fQ/VpLWBteZEhI/AAAAAAAAHcs/jt34zSmdlkI/s1600/HowToPlay1.png" /></span></a></div>
 <div style="clear: both; text-align: center;">
-<span style="background-color: white;"><span style="background-color: white;"><br /></span>
-</span><br />
+<span style="background-color: white;"><br /></span>
+<span style="background-color: white;">As a last act of&nbsp;desperation, a player can decide to use the magic hambone which has a chance of being beneficial or&nbsp;detrimental&nbsp;to the player. The player can increase their chance of a positive outcome by putting points into the Ham stat.</span><span style="background-color: white;">&nbsp;</span><br />
 <div style="text-align: center;">
-<span style="color: white;"><span style="background-color: white; font-family: inherit;">As a last act of&nbsp;desperation, a player can decide to use the magic hambone which has a chance of being beneficial or&nbsp;detrimental&nbsp;to the player. The player can increase their chance of a positive outcome by putting points into the Ham stat.</span></span><br />
 <span style="color: white;"><span style="background-color: white; font-family: inherit;"><br /></span></span></div>
 <span style="background-color: white;">
 </span></div>
@@ -97,21 +87,19 @@ Sword - &nbsp;Bow - Wand - Ham!</span></h3>
 </h4>
 <div style="clear: both; text-align: center;">
 <div style="text-align: center;">
-<span style="background-color: white; font-family: inherit; font-weight: normal;">Another important stat that the player can increase on level up or boost with items is the light. The dungeon is dark and full of traps and horrific monsters. Being able to see where you're going before you get there is invaluable.</span></div>
+<span style="background-color: white; font-family: inherit; font-weight: normal;">Another important stat that the player can increase on level up or boost with items is the light. The dungeon is dark and full of traps and horrific monsters. Being able to see where you're going before you get there is invaluable.</span><br />
+<span style="background-color: white; font-family: inherit; font-weight: normal;"><br /></span>
+<span style="background-color: white; font-family: inherit; font-weight: normal;"><a href="http://4.bp.blogspot.com/-i8xvlBmll7M/VpmAoWocn8I/AAAAAAAAHhA/xQrAWEk94QI/s1600/gif_lowlight2_20.gif" imageanchor="1" style="font-family: inherit; margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://4.bp.blogspot.com/-i8xvlBmll7M/VpmAoWocn8I/AAAAAAAAHhA/xQrAWEk94QI/s640/gif_lowlight2_20.gif" width="640" /></a></span></div>
 </div>
 <div style="clear: both; text-align: center;">
 <span style="background-color: white;"><span style="background-color: white;"><br /></span>
 </span><br />
+<span style="background-color: white;"><span style="background-color: white;"><br /></span></span>
+<span style="background-color: white;"><span style="background-color: white;"><a href="http://2.bp.blogspot.com/-xejmPhnEmyI/VpmAqEICpWI/AAAAAAAAHhI/TloaxE1y0IY/s1600/gif_highlight2_20.gif" imageanchor="1" style="font-family: inherit; margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://2.bp.blogspot.com/-xejmPhnEmyI/VpmAqEICpWI/AAAAAAAAHhI/TloaxE1y0IY/s640/gif_highlight2_20.gif" width="640" /></a></span></span><br />
 <div style="text-align: center;">
-<span style="background-color: black; font-family: inherit;"><a href="http://4.bp.blogspot.com/-i8xvlBmll7M/VpmAoWocn8I/AAAAAAAAHhA/xQrAWEk94QI/s1600/gif_lowlight2_20.gif" imageanchor="1" style="background-color: white; font-family: inherit; margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://4.bp.blogspot.com/-i8xvlBmll7M/VpmAoWocn8I/AAAAAAAAHhA/xQrAWEk94QI/s640/gif_lowlight2_20.gif" width="640" /></a></span></div>
-<span style="background-color: white; font-family: inherit;">
-</span></div>
+<br /></div>
+</div>
 <div style="clear: both; text-align: center;">
-<span style="background-color: white;"><span style="background-color: white;"><br /></span>
-<span style="background-color: white;"><span style="background-color: black; font-family: inherit;"></span><br /></span>
-</span><br />
-<div style="text-align: center;">
-<span style="background-color: black; font-family: inherit;"><a href="http://2.bp.blogspot.com/-xejmPhnEmyI/VpmAqEICpWI/AAAAAAAAHhI/TloaxE1y0IY/s1600/gif_highlight2_20.gif" imageanchor="1" style="background-color: white; font-family: inherit; margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://2.bp.blogspot.com/-xejmPhnEmyI/VpmAqEICpWI/AAAAAAAAHhI/TloaxE1y0IY/s640/gif_highlight2_20.gif" width="640" /></a></span></div>
 <span style="background-color: white; font-family: inherit;">
 </span></div>
 <div style="clear: both; text-align: center;">
