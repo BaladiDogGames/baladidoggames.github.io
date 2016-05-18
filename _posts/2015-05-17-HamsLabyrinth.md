@@ -7,7 +7,6 @@ tags: [sample post, readability, test]
 comments: true
 ---
 
-
 <div style="text-align: center;">
 <div style="text-align: justify;">
 <h4>
@@ -25,7 +24,7 @@ comments: true
 <span style="background-color: white;"><br /></span></div>
 </div>
 <div style="text-align: right;">
-<a href="http://1.bp.blogspot.com/-2JKl8jrCA0E/VqZxQygU0OI/AAAAAAAAHjg/CLOO2B6_drk/s1600/labyrinth2.png" imageanchor="1" style="background-color: white; font-family: inherit; margin-left: 1em; margin-right: 1em; text-align: center;"><span style="color: black;"><img border="0" src="https://1.bp.blogspot.com/-2JKl8jrCA0E/VqZxQygU0OI/AAAAAAAAHjg/CLOO2B6_drk/s1600/labyrinth2.png" /></span></a></div>
+<a href="http://1.bp.blogspot.com/-2JKl8jrCA0E/VqZxQygU0OI/AAAAAAAAHjg/CLOO2B6_drk/s1600/labyrinth2.png" imageanchor="1" style="font-family: inherit; margin-left: 1em; margin-right: 1em; text-align: center;"><span style="background-color: white; color: black;"><img border="0" src="https://1.bp.blogspot.com/-2JKl8jrCA0E/VqZxQygU0OI/AAAAAAAAHjg/CLOO2B6_drk/s1600/labyrinth2.png" /></span></a></div>
 <div>
 <div style="clear: both; text-align: center;">
 <h2 style="text-align: center;">
@@ -85,8 +84,8 @@ Sword - &nbsp;Bow - Wand - Ham!</span></h3>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://1.bp.blogspot.com/-bulxt_RY-fQ/VpLWBteZEhI/AAAAAAAAHcs/jt34zSmdlkI/s1600/HowToPlay1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="background-color: white; color: black; font-family: inherit;"><img border="0" src="https://1.bp.blogspot.com/-bulxt_RY-fQ/VpLWBteZEhI/AAAAAAAAHcs/jt34zSmdlkI/s1600/HowToPlay1.png" /></span></a></div>
 <div style="clear: both; text-align: center;">
-<span style="background-color: white;"><br /></span>
-<br />
+<span style="background-color: white;"><span style="background-color: white;"><br /></span>
+</span><br />
 <div style="text-align: center;">
 <span style="color: white;"><span style="background-color: white; font-family: inherit;">As a last act of&nbsp;desperation, a player can decide to use the magic hambone which has a chance of being beneficial or&nbsp;detrimental&nbsp;to the player. The player can increase their chance of a positive outcome by putting points into the Ham stat.</span></span><br />
 <span style="color: white;"><span style="background-color: white; font-family: inherit;"><br /></span></span></div>
@@ -101,29 +100,29 @@ Sword - &nbsp;Bow - Wand - Ham!</span></h3>
 <span style="background-color: white; font-family: inherit; font-weight: normal;">Another important stat that the player can increase on level up or boost with items is the light. The dungeon is dark and full of traps and horrific monsters. Being able to see where you're going before you get there is invaluable.</span></div>
 </div>
 <div style="clear: both; text-align: center;">
-<span style="background-color: white;"><br /></span>
-<br />
+<span style="background-color: white;"><span style="background-color: white;"><br /></span>
+</span><br />
 <div style="text-align: center;">
 <span style="background-color: black; font-family: inherit;"><a href="http://4.bp.blogspot.com/-i8xvlBmll7M/VpmAoWocn8I/AAAAAAAAHhA/xQrAWEk94QI/s1600/gif_lowlight2_20.gif" imageanchor="1" style="background-color: white; font-family: inherit; margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://4.bp.blogspot.com/-i8xvlBmll7M/VpmAoWocn8I/AAAAAAAAHhA/xQrAWEk94QI/s640/gif_lowlight2_20.gif" width="640" /></a></span></div>
 <span style="background-color: white; font-family: inherit;">
 </span></div>
 <div style="clear: both; text-align: center;">
-<span style="background-color: white;"><br /></span>
+<span style="background-color: white;"><span style="background-color: white;"><br /></span>
 <span style="background-color: white;"><span style="background-color: black; font-family: inherit;"></span><br /></span>
-<br />
+</span><br />
 <div style="text-align: center;">
 <span style="background-color: black; font-family: inherit;"><a href="http://2.bp.blogspot.com/-xejmPhnEmyI/VpmAqEICpWI/AAAAAAAAHhI/TloaxE1y0IY/s1600/gif_highlight2_20.gif" imageanchor="1" style="background-color: white; font-family: inherit; margin-left: 1em; margin-right: 1em;"><img border="0" height="358" src="https://2.bp.blogspot.com/-xejmPhnEmyI/VpmAqEICpWI/AAAAAAAAHhI/TloaxE1y0IY/s640/gif_highlight2_20.gif" width="640" /></a></span></div>
 <span style="background-color: white; font-family: inherit;">
 </span></div>
 <div style="clear: both; text-align: center;">
-<span style="background-color: white;"><br /></span>
-<br />
+<span style="background-color: white;"><span style="background-color: white;"><br /></span>
+</span><br />
 <div style="text-align: center;">
 <h2 style="clear: both;">
 <span style="background-color: white; font-family: inherit; font-size: x-large;">The Development</span></h2>
 </div>
 <div style="text-align: center;">
-<span style="background-color: black; font-family: inherit;"><span style="background-color: white; font-family: inherit;">Ham's Labyrinth began development in December of 2015 by&nbsp;<i><b>BaladiDog Games</b>. </i><br />There is currently no set release date, although a Greenlight and Kickstarter will likely be announced within the next year. Ham's Labyrinth is being created using Unreal Engine 4 and will initially be released for PC.</span></span></div>
+<span style="background-color: black; font-family: inherit;"><span style="background-color: white; font-family: inherit;">Ham's Labyrinth began development in December of 2015 by&nbsp;<i><b>BaladiDog Games</b>. </i><br />There is currently no set release date, although a Greenlight and Kickstarter may be announced within the next year. Ham's Labyrinth is being created using Unreal Engine 4 and will initially be released for PC.</span></span></div>
 <div style="text-align: center;">
 <span style="font-family: inherit;"><span style="background-color: white;"><br /></span></span></div>
 <span style="background-color: white;"><span style="font-family: inherit;">
@@ -136,12 +135,11 @@ Sword - &nbsp;Bow - Wand - Ham!</span></h3>
 </div>
 <div>
 <div style="text-align: center;">
-<span style="background-color: white;"><br /></span>
-<br />
+<span style="background-color: white;"><span style="background-color: white;"><br /></span>
+</span><br />
 <div style="text-align: center;">
 <span style="background-color: white;"><br /></span></div>
 <div style="text-align: center;">
 <span style="background-color: white;"><iframe frameborder="1" height="167" src="https://itch.io/embed/50521?dark=true&amp;linkback=true" width="552"></iframe></span></div>
 </div>
 </div>
-
