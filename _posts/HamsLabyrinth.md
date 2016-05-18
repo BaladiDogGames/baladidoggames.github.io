@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Post with Image Feature"
-date: 2012-05-23
-excerpt: "A ton of text to test readability with image feature."
-tags: [sample post, readability, test, image, feature]
-feature: http://i.imgur.com/Ds6S7lJ.png
+title: "Ham's Labyrinth"
+date: 2012-05-22
+excerpt: "Third person procedurally generated dungeon adventure."
+tags: [sample post, readability, test]
 comments: true
 ---
 
