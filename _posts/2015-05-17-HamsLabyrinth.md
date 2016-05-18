@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Ham's Labyrinth"
 date: 2012-05-22
 excerpt: "Third person procedurally generated dungeon adventure."
