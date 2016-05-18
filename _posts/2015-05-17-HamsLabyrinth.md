@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ham's Labyrinth"
-date: 2012-05-22
+date: 2016-05-18
 excerpt: "Third person procedurally generated dungeon adventure."
 tags: [sample post, readability, test]
 comments: true
