@@ -1,6 +1,6 @@
 # Site
 title:              BaladiDog Games
-bio:                'Check out our current project, Research & DEADvelopment!'
+bio:                'Check out our current projects, Ham's Labyrinth & Research & DEADvelopment!'
 description:        "BaladiDog games is an indiedev studio based out of Iowa."
 reading_time:       true
 words_per_minute:   200
@@ -39,16 +39,16 @@ disqus_shortname:   baladidoggames
 #bing-verify:
 #email:
 twitter:            BaladiDogGames
-facebook:           username
+facebook:           BaladiDogGames
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          BaladiDogGames
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              BaladiDogGames
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
