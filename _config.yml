@@ -1,10 +1,6 @@
 # Site
 title:              BaladiDog Games
-<<<<<<< HEAD
 bio:                'BaladiDog Games is a gamedev studio based out of Iowa. Subscribe to our mailing list below to follow along with our recent projects!'
-=======
-bio:                'Check out our current project Research & DEADvelopment!'
->>>>>>> origin/master
 description:        "BaladiDog games is an indiedev studio based out of Iowa."
 reading_time:       true
 words_per_minute:   200
